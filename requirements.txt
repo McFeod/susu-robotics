@@ -1,0 +1,4 @@
+easygui==0.98.0
+pgu==0.18
+pygame==1.9.2b8
+PyTweening==1.0.3
